@@ -31,10 +31,10 @@ local function set_light_theme()
 	vim.cmd("highlight CursorLineNr  ctermfg=red       cterm=bold"               )
 
 	vim.cmd("highlight CursorLine    ctermbg=189"                                ) 
-	vim.cmd("highlight StatusLine    ctermbg=black     ctermfg=211"              ) 
-	vim.cmd("highlight Search        ctermbg=yellow    ctermfg=black"            ) 
-	vim.cmd("highlight MatchParen    ctermbg=189       ctermfg=white cterm=bold" ) 
-	vim.cmd("highlight Error         ctermbg=blue      ctermfg=white cterm=bold" ) 
+	vim.cmd("highlight StatusLine    ctermbg=black     ctermfg=189"              ) 
+	vim.cmd("highlight Search        ctermbg=lightred  ctermfg=black"            )
+	vim.cmd("highlight MatchParen    ctermbg=189       ctermfg=white cterm=bold" )
+	vim.cmd("highlight Error         ctermbg=blue      ctermfg=white cterm=bold" )
 
 
 end
