@@ -2,6 +2,8 @@
 
 Simple and easily customizable template NeoVim color schemes for light / dark themes. Uses only 8-bit ANSI colors, compatible with MacOS terminal.
 
+Last Updated: Mar 10 2025
+
 ***
 
 ## Installation
@@ -22,7 +24,7 @@ Either directly copy / paste the code as needed, or:
 ## Usage
 
 
-1. Copy the code into ~/.config/nvim/init.lua
+1. Copy or Move the code from config.lua into ~/.config/nvim/init.lua
 
 2. start NeoVim
 
